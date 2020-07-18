@@ -1,4 +1,8 @@
-### Hi there 👋
+# Insang Song
++ Ph.D. student in University of Oregon :duck:
++ Please refer to my ![curriculum vitae](https://casprofile.uoregon.edu/sites/casprofile2.uoregon.edu/files/cv/cv-5436.pdf)
++ And also please refer to my academic portfolio in ![ResearchGate](https://www.researchgate.com/profile/Insang_Song2)
++ An avid R user, a Python spectator, and a Julia learner
 
 <!--
 **sigmafelix/sigmafelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
