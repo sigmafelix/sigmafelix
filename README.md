@@ -1,6 +1,6 @@
 # Insang Song
-+ Ph.D. student in University of Oregon :duck:
-+ Please refer to my [curriculum vitae](https://casprofile.uoregon.edu/sites/casprofile2.uoregon.edu/files/cv/cv-5436.pdf) and [my personal website](https://sigmafelix.wixsite.com/mysite)
++ Ph.D. candidate in University of Oregon :duck:
++ Please refer to my [curriculum vitae](https://casprofile.uoregon.edu/sites/casprofile2.uoregon.edu/files/cv/cv-5436.pdf) and [my personal website](https://www.issong.net)
 + And also please refer to my academic portfolio in [ResearchGate](https://www.researchgate.net/profile/Insang_Song2)
 + An avid R user, a Python spectator, and a Julia learner
 
