@@ -1,8 +1,9 @@
 # Insang Song
-+ Ph.D. candidate in University of Oregon :duck:
++ Ph.D. Candidate in Geography at University of Oregon :duck:
++ I am interested in geospatial analysis, spatiotemporal analysis, and environmental health
 + Please refer to my [curriculum vitae](https://casprofile.uoregon.edu/sites/casprofile2.uoregon.edu/files/cv/cv-5436.pdf) and [my personal website](https://www.issong.net)
 + And also please refer to my academic portfolio in [ResearchGate](https://www.researchgate.net/profile/Insang_Song2)
-+ An avid R user, a Python spectator, and a Julia learner
++ I use and learn R, Python, and Julia
 
 <!--
 **sigmafelix/sigmafelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
