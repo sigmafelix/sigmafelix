@@ -1,7 +1,7 @@
 # Insang Song
 + Ph.D. Candidate in Geography at University of Oregon :duck:
-+ I will graduate in June 2023! Job search is underway.
-+ I am interested in geospatial analysis, spatiotemporal analysis, and environmental health
++ I will graduate in June 2023!
++ I am interested in spatiotemporal analysis, causal inference, and environmental health
 + Please refer to my [curriculum vitae](https://casprofile.uoregon.edu/sites/casprofile2.uoregon.edu/files/cv/cv-5436.pdf) and [my personal website](https://www.issong.net)
 + And also please refer to my academic portfolio in [ResearchGate](https://www.researchgate.net/profile/Insang_Song2)
 + I use and learn R, Python, and Julia
