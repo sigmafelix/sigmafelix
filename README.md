@@ -4,6 +4,12 @@
 + Please refer to my publication records and academic portfolio in [ResearchGate](https://www.researchgate.net/profile/Insang_Song2) or [Google Scholar](https://scholar.google.com/citations?user=xKcMnBEAAAAJ&hl=en)
 + I use and learn R (and Rcpp), Python, and Julia
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigmafelix&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigmafelix&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigmafelix&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sigmafelix&theme=swift&utcOffset=-5)
+
 <!--
 **sigmafelix/sigmafelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
