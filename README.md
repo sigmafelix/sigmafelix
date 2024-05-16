@@ -1,6 +1,6 @@
 # Insang Song
 + Interested in spatiotemporal analysis, causal inference, spatial data science, and environmental health
-+ Please refer to my [curriculum vitae](https://github.com/sigmafelix/sigmafelix/blob/master/ISong_CV_05082024.pdf) and [my personal website](https://www.issong.net)
++ Please refer to my [curriculum vitae](https://github.com/sigmafelix/sigmafelix/blob/master/ISong_CV.pdf) and [my personal website](https://www.issong.net)
 + Please refer to my publication records and academic portfolio in [ResearchGate](https://www.researchgate.net/profile/Insang_Song2) or [Google Scholar](https://scholar.google.com/citations?user=xKcMnBEAAAAJ&hl=en)
 + I use and learn R (and Rcpp), Python, and Julia
 
