@@ -129,6 +129,7 @@
 
 = Projects
 - Reproducible high-resolution spatiotemporal PM#sub[2.5] and PM#sub[10] modeling in Republic of Korea
+- Development of 2D-to-3D geospatial greenspace exposure assessment using visual language models
 - Scalable computation for geospatial exposure assessment
 - Spatiotemporal analysis of antidepressant prescription and social pressure
 - Impact of incorrect address in the estimation of area-representative air quality values and spatiotemporal air pollution models
@@ -171,6 +172,10 @@ Ransome, Y., Song, I., Pham, L., \& Busette, C. (2022). Churches are closing in 
 
 == Oral Presentations
 
+Song, I. (2026). Reproducible pipeline for high-resolution air pollution prediction in South Korea.  _2026 American Association of Geographers Annual Meeting_. San Francisco, CA. Mar. 17 -- 21, 2026.
+
+Yu, D., \& Song, I. (2026). Transfer-accounted spatial accessibility measurement in a mass-transit-dominated metropolis. _2026 American Association of Geographers Annual Meeting_. San Francisco, CA. Mar. 17 -- 21, 2026.
+
 Song, I. (2022). Spatial difference in the impact of greenspace exposure on mental illness mortality in the Pacific Northwest United States. _Association of American Geographers 2022 84th Annual Meeting_. Bellingham, WA. Oct. 4–6, 2022.
 
 Song, I. (2021). Does missing mechanism matter?—an evaluation of imputation algorithms for missing mechanisms. _2021 American Association of Geographers Annual Meeting_. Virtual. Apr. 7 -- 11, 2021. 
@@ -179,20 +184,21 @@ Song, I. (2020). Getting time from space: interactive visualization of temporal 
 
 Song, I., \& Luan, H. (2020). Local explanations of individual characteristics and district-level air pollution on low birth weight in South Korea: a Bayesian network approach. _2020 American Association of Geographers Annual Meeting_. (Cancelled due to the COVID-19) 
 
-Song, I., \& Kim S.-Y. (2016). Estimation of representative areal concentrations of particulate air pollution in Seoul, Korea. _2016 American Association of Geographers Annual Meeting_. San Francisco, CA. Mar. 29 – Apr. 4, 2016. 
+Song, I., \& Kim S.-Y. (2016). Estimation of representative areal concentrations of particulate air pollution in Seoul, Korea. _2016 American Association of Geographers Annual Meeting_. San Francisco, CA. Mar. 29 -- Apr. 4, 2016. 
 
 
 == Poster Presentations
+Shin, H., Park, S., \& Song, I. (2026). A Lightweight and Reproducible Solution for South Korean Census Data Retrieval​. _2026 Association of American Geographers Annual Meeting_. San Francisco, CA, Mar. 17--21, 2026.
 
-Song, I., \& Messier, K.P. (2024). R-based geospatial parallel processing tool for environmental health research by data partitioning. _American Geophysical Union 2024 Annual Meeting_. Washington, D.C., Dec. 9–13, 2024.
+Song, I., \& Messier, K.P. (2024). R-based geospatial parallel processing tool for environmental health research by data partitioning. _American Geophysical Union 2024 Annual Meeting_. Washington, D.C., Dec. 9 -- 13, 2024.
 
-Messier, K.P., Manware, M., Marques, E., Alifa Kassien, M., Clark, L., Singh, A., Ward-Caviness, C., \& Song, I. (2024). Reproducible Pipelines for Updateable and FAIR Geostatistical Air Pollution Exposure Models. _American Geophysical Union 2024 Annual Meeting_. Washington, D.C., Dec. 9–13, 2024.
+Messier, K.P., Manware, M., Marques, E., Alifa Kassien, M., Clark, L., Singh, A., Ward-Caviness, C., \& Song, I. (2024). Reproducible Pipelines for Updateable and FAIR Geostatistical Air Pollution Exposure Models. _American Geophysical Union 2024 Annual Meeting_. Washington, D.C., Dec. 9--13, 2024.
 
-Song, I., \& Messier, K.P. (2024). Development of geospatial parallel processing software tool for large-scale geospatial exposure assessment. _ISEE Conference Abstracts_ 2024(1). Santiago, Chile, Aug. 25–28, 2024. (Virtual Presentation)
+Song, I., \& Messier, K.P. (2024). Development of geospatial parallel processing software tool for large-scale geospatial exposure assessment. _ISEE Conference Abstracts_ 2024(1). Santiago, Chile, Aug. 25--28, 2024. (Virtual Presentation)
 
-Song, I., Marques, E., Manware, M., Alifa Kassien, M., Daw, R., Zilber, D., Singh, A., Clark, L., Ward-Caviness, C., \& Messier, K.P. (2024). Air Pollution Data for the Masses: An Open-Access, Test-Driven, and Reproducible Pipeline PM#sub("2.5") Hybrid Model for Epidemiology Applications. _ISEE Conference Abstracts_ 2024(1). Santiago, Chile, Aug. 25–28, 2024. (Virtual Presentation)
+Song, I., Marques, E., Manware, M., Alifa Kassien, M., Daw, R., Zilber, D., Singh, A., Clark, L., Ward-Caviness, C., \& Messier, K.P. (2024). Air Pollution Data for the Masses: An Open-Access, Test-Driven, and Reproducible Pipeline PM#sub("2.5") Hybrid Model for Epidemiology Applications. _ISEE Conference Abstracts_ 2024(1). Santiago, Chile, Aug. 25--28, 2024. (Virtual Presentation)
 
-Song, I., \& Luan, H. (2022). Matching by multivariate similarity matrix with geographic coordinates: Causal inference of the relationship between residential greenspace and deaths by mental illness. _GEOMED 2022_. Irvine, CA. Oct. 12–14, 2022. 
+Song, I., \& Luan, H. (2022). Matching by multivariate similarity matrix with geographic coordinates: Causal inference of the relationship between residential greenspace and deaths by mental illness. _GEOMED 2022_. Irvine, CA. Oct. 12--14, 2022. 
 
 Song, I., \& Kim, S.-Y. (2018). A study on the association between two air pollutants (PM#sub("10"), NO#sub("2")) and traffic-related variables in 2010. _Proceedings of the Korean Society of Atmospheric Environment_ 2018: 210.  
 
@@ -345,7 +351,9 @@ Excellent Poster Award, The Korean Society of Environmental Health and Toxicolog
 
 = Grants and Scholarships
 == Funded
-New Faculty Startup Fund, Seoul National University. Oct. 2024 – Sep. 2026.
+Early-career Researcher Support Program, National Research Foundation of Korea. Mar. 2026 -- Feb. 2029.
+
+New Faculty Startup Fund, Seoul National University. Oct. 2024 -- Sep. 2026.
 
 The Association of Pacific Coast Geographers, Travel Grant, Oct. 2022. 
 
@@ -395,7 +403,7 @@ National Science Foundation, Doctoral Dissertation Research Improvement Grant.
 
 = Service
 == Manuscript review
-_BMC Public Health_ (8), _JAMA Network Open_ (1), _npj Urban Sustainability_ (1), _npj Digital Public Health_ (1), _Scientific Reports_ (2), _International Journal for Equity in Health_ (1), _International Journal of Health Geographics_ (3), _Atmospheric Environment: X_ (1)
+_BMC Public Health_ (8), _Computers, Environment, and Urban Systems_ (2), _JAMA Network Open_ (1), _npj Urban Sustainability_ (1), _npj Digital Public Health_ (1), _Scientific Reports_ (2), _International Journal for Equity in Health_ (1), _International Journal of Health Geographics_ (3), _Atmospheric Environment: X_ (1), _Frontiers in Public Health_ (1)
 
 == Intramural service
 Cartography Division Head, The Institute for Korean Regional Studies, Seoul National University (2025 – Current)
@@ -467,4 +475,4 @@ Nationality: Republic of Korea
 
 #v(3em)
 
-Last edited: Jan. 03, 2026
+Last edited: Mar. 27, 2026
