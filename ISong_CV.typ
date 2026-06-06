@@ -155,6 +155,9 @@
 
 == Under review / In preparation
 
+Song, I. Under review. Relocation-Induced Bias in Air Quality Monitoring: Evidence from South Korea's PM₁₀ and PM₂.₅ Network. _Atmospheric Environment_.
+
+
 Song, I., \& Luan, H. Under review. Ecological gradients shape the effect of residential greenspace exposure on mental illness mortality. _International Journal of Health Geographics_.
 
 Shin, H., Park, S., \& Song, I. Under review. An R and Python Toolkit for South Korean Census Data: tidycensuskr and pycensuskr. _Environment and Planning B: Urban Analytics and City Science._
@@ -162,10 +165,10 @@ Shin, H., Park, S., \& Song, I. Under review. An R and Python Toolkit for South 
 Song, I., \& Luan, H. In preparation. Does missing mechanism matter to the imputation accuracy? - an evaluation of imputation algorithms for missing mechanisms in simulated and real spatiotemporal data. 
 
 
-
 == Policy Reports
 Ransome, Y., Song, I., Pham, L., \& Busette, C. (2022). Churches are closing in predominantly Black communities why public health officials should be concerned. The Brookings Institution. #link("https://policycommons.net/artifacts/4141562/churches-are-closing-in-predominantly-black-communities-why-public-health-officials-should-be-concerned/4949369/")[(link)]
 
+#pagebreak()
 
 
 = Conference Presentations
@@ -207,6 +210,12 @@ Song, I., \& Kim S.-Y. (2016). Local difference of association between PM#sub("1
 
 = Trainees
 - Mr. Daehoon Yu (Master's, 2025 – Current)
+
+
+= Graduate Committees
+- Seoul National University (MA: 3 [2 graduated], PhD: 2 [1 current, 1 graduated])
+- National Cancer Center of Korea, Graduate School of Cancer Science and Policy (MPH: 2 [2 current])
+
 
 #pagebreak()
 
@@ -270,13 +279,15 @@ The 3#super("rd") Republic of Korea Army Headquarters, Republic of Korea Army, R
 = Teaching Experience
 *Seoul National University* 
 
+Seminars in Geographic Information Science #h(1fr) Spring 2026
+
+Analytical Methods in Geography 1: Statistical Modeling #h(1fr) Spring 2026, Spring 2025
+
 Seminars in Spatial Big Data and Machine Learning #h(1fr) Fall 2025
 
 Analytical Methods in Geography 3: Spatiotemporal Data Science #h(1fr) Fall 2025
 
 Seminars in Health \& Medical Geography #h(1fr) Spring 2025
-
-Analytical Methods in Geography 1: Statistical Modeling #h(1fr) Spring 2025
 
 Analytical Methods in Geography 2: Machine Learning #h(1fr) Fall 2024
 
@@ -308,6 +319,7 @@ Analytical Methods in Geography #h(1fr) Spring 2017
 
 Geographic Information Systems #h(1fr) Fall 2015
 
+#pagebreak()
 
 == Guest Lecture
 
@@ -320,6 +332,11 @@ Potentials and challenges in the triad of GIS, geographic knowledge, and large l
 // Invited talks
 
 = Invited Talks
+
+Development of Open Geographic Information Science and Dilemma of Spatial Analysis: Tension between Local Spatial Models and Predictive Modeling. Department of Statistics, Seoul National University. May 2026.
+
+Strengthening Openness in Geographic Information Science and Its Practical Role in Research on Geographic Health Disparities. Department of Geography, Korea University. Apr. 2026.
+
 
 Practices and Challenges in Open Geographic Information Science for Geographic Health Disparity Research. Department of Geography Education, Seoul National University. Oct. 2025.
 
@@ -393,22 +410,45 @@ National Science Foundation, Doctoral Dissertation Research Improvement Grant.
 #stack(
   dir: ttb,
   spacing: 8pt,
-  "American Geophysical Union",
   "American Association of Geographers",
   "The Korean Geographical Society",
-  "The Korean Cartographic Association"
+  "The Korean Cartographic Association",
+  "American Geophysical Union"
 )
 
 
 
 = Service
 == Manuscript review
-_BMC Public Health_ (8), _Computers, Environment, and Urban Systems_ (2), _JAMA Network Open_ (1), _npj Urban Sustainability_ (1), _npj Digital Public Health_ (1), _Scientific Reports_ (2), _International Journal for Equity in Health_ (1), _International Journal of Health Geographics_ (3), _Atmospheric Environment: X_ (1), _Frontiers in Public Health_ (1)
+
+_BMC Public Health_ (8)
+
+_International Journal of Health Geographics_ (3)
+
+_Computers, Environment, and Urban Systems_ (2)
+
+_Scientific Reports_ (2)
+
+_Health & Place_ (1)
+
+_JAMA Network Open_ (1)
+
+_npj Urban Sustainability_ (1)
+
+_npj Digital Public Health_ (1)
+
+_International Journal for Equity in Health_ (1)
+
+_Atmospheric Environment: X_ (1)
+
+_Frontiers in Public Health_ (1)
 
 == Intramural service
 Cartography Division Head, The Institute for Korean Regional Studies, Seoul National University (2025 – Current)
 
-Graduate Admission Committee, Department of Geography, Seoul National University (2024 – 2025)
+Graduate Admission Committee, Department of Geography, Seoul National University (2024 – Current)
+
+International Admission Committee, Department of Geography, Seoul National University (2024 - Current)
 
 Department Steward, Graduate Teaching Fellow Federation, University of Oregon (2020 – 2022) 
 
@@ -421,6 +461,8 @@ Organizer, Classics in Social Sciences Reading Group, Department of Geography, S
 Co-organizer, Geographers' Night, Department of Geography, SNU (2014) 
 
 == Extramural service
+
+Operating Committee Chair, 2026 18th Korea-China-Japan Joint Conference on Geography (2026)
 
 Deputy Lead, Department of Academic Affairs, The Korean Cartographic Association (2026 – 2027)
 
@@ -438,7 +480,7 @@ Mentor, Seoul National University \& Korea Scholarship Foundation (Seoul, Republ
     R, Python, Julia, SQL (SpatiaLite, PostGIS), JavaScript, C++, LaTeX, Shell
   ]),
   entry("Software", [
-    QGIS, ArcGIS Suite, Microsoft Office Suite, Microsoft Azure, Git, Docker, Apptainer (Singularity), Quarto, Shiny, GIMP, Inkscape, Blender, Typst
+    QGIS, ArcGIS Suite, Microsoft Office Suite, Microsoft Azure, Git, Docker, Apptainer (Singularity), Quarto, Typst, Shiny, GIMP, Inkscape, Blender
   ]),
   entry("Language", [
     Korean (Native), English (Professional Proficiency), Standard Chinese, Japanese, German (Reading)
@@ -475,4 +517,4 @@ Nationality: Republic of Korea
 
 #v(3em)
 
-Last edited: Mar. 27, 2026
+Last edited: June 07, 2026
