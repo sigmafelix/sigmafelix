@@ -208,7 +208,7 @@ Song, I., \& Kim S.-Y. (2016). Local difference of association between PM#sub("1
 - Mr. Jiho Kwak (Master's, 2026 – Current)
 
 = Graduate Committees
-- Seoul National University (MA: 4 [2 graduated], PhD: 2 [1 current, 1 graduated])
+- Seoul National University (MA: 5 [2 graduated], PhD: 2 [2 current, 1 graduated])
 - National Cancer Center of Korea, Graduate School of Cancer Science and Policy (MPH: 2 [2 graduated])
 
 
@@ -418,9 +418,9 @@ National Science Foundation, Doctoral Dissertation Research Improvement Grant.
 = Service
 == Manuscript review
 
-_BMC Public Health_ (10)
+_BMC Public Health_ (11)
 
-_International Journal of Health Geographics_ (4)
+_International Journal of Health Geographics_ (6)
 
 _Computers, Environment, and Urban Systems_ (2)
 
@@ -514,4 +514,4 @@ Nationality: Republic of Korea
 
 #v(3em)
 
-Last edited: October 07, 2026
+Last edited: November 10, 2026
