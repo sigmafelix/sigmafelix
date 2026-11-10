@@ -155,11 +155,6 @@
 
 == Under review / In preparation
 
-Song, I. Under review. Relocation-Induced Bias in Air Quality Monitoring: Evidence from South Korea's PM₁₀ and PM₂.₅ Network. _Atmospheric Environment_.
-
-
-Song, I., \& Luan, H. Under review. Ecological gradients shape the effect of residential greenspace exposure on mental illness mortality. _International Journal of Health Geographics_.
-
 Shin, H., Park, S., \& Song, I. Under review. An R and Python Toolkit for South Korean Census Data: tidycensuskr and pycensuskr. _Environment and Planning B: Urban Analytics and City Science._
 
 Song, I., \& Luan, H. In preparation. Does missing mechanism matter to the imputation accuracy? - an evaluation of imputation algorithms for missing mechanisms in simulated and real spatiotemporal data. 
@@ -210,11 +205,11 @@ Song, I., \& Kim S.-Y. (2016). Local difference of association between PM#sub("1
 
 = Trainees
 - Mr. Daehoon Yu (Master's, 2025 – Current)
-
+- Mr. Jiho Kwak (Master's, 2026 – Current)
 
 = Graduate Committees
-- Seoul National University (MA: 3 [2 graduated], PhD: 2 [1 current, 1 graduated])
-- National Cancer Center of Korea, Graduate School of Cancer Science and Policy (MPH: 2 [2 current])
+- Seoul National University (MA: 5 [2 graduated], PhD: 2 [2 current, 1 graduated])
+- National Cancer Center of Korea, Graduate School of Cancer Science and Policy (MPH: 2 [2 graduated])
 
 
 #pagebreak()
@@ -279,6 +274,8 @@ The 3#super("rd") Republic of Korea Army Headquarters, Republic of Korea Army, R
 = Teaching Experience
 *Seoul National University* 
 
+Quantitative Geography #h(1fr) Fall 2026
+
 Seminars in Geographic Information Science #h(1fr) Spring 2026
 
 Analytical Methods in Geography 1: Statistical Modeling #h(1fr) Spring 2026, Spring 2025
@@ -289,7 +286,7 @@ Analytical Methods in Geography 3: Spatiotemporal Data Science #h(1fr) Fall 2025
 
 Seminars in Health \& Medical Geography #h(1fr) Spring 2025
 
-Analytical Methods in Geography 2: Machine Learning #h(1fr) Fall 2024
+Analytical Methods in Geography 2: Machine Learning #h(1fr) Fall 2024, Fall 2026
 
 
 *Instructor, University of Oregon* #h(1fr) Jan. – Apr. 2023 \
@@ -421,15 +418,15 @@ National Science Foundation, Doctoral Dissertation Research Improvement Grant.
 = Service
 == Manuscript review
 
-_BMC Public Health_ (8)
+_BMC Public Health_ (11)
 
-_International Journal of Health Geographics_ (3)
+_International Journal of Health Geographics_ (6)
 
 _Computers, Environment, and Urban Systems_ (2)
 
 _Scientific Reports_ (2)
 
-_Health & Place_ (1)
+_Health & Place_ (2)
 
 _JAMA Network Open_ (1)
 
@@ -517,4 +514,4 @@ Nationality: Republic of Korea
 
 #v(3em)
 
-Last edited: June 07, 2026
+Last edited: November 10, 2026
